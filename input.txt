@@ -1,0 +1,5 @@
+//first 2 lines reserved for comments
+//format: row1 - plaintext (2x4bits); row2 - key (2x5bits); row3 - number of rounds
+0111 0111
+10100 00010
+2

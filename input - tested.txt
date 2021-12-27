@@ -1,0 +1,12 @@
+//format: row1 - ciphertext (2x4bits); row2 - key (2x5bits); row3 - number of rounds
+
+//this file documents the tested combination of plaintext + ciphertext
+0011 1000
+10100 00010
+2
+>>1001 0111
+
+0111 0111
+10100 00010
+2
+>>0111 0010

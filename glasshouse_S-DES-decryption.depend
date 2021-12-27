@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640573066 source:c:\users\xuan wei\documents\programming\cpp\glasshouse_s-des-decryption\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+
