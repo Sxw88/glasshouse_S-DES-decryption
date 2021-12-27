@@ -1,0 +1,4 @@
+//first 3 lines are reserved for comments:
+//in this file is the permutation array needed for keygen (p10). The key is used to rearrange the 10-bit key. 
+//Format: 10 consecutive rearranged integers, with 1 spacing between each
+3 5 2 7 4 10 1 9 8 6

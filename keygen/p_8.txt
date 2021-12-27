@@ -1,0 +1,4 @@
+//first 3 lines are reserved for comments:
+//in this file is the permutation array needed for keygen (p8). The key is used to rearrange the 10-bit key and select 8 out of 10 bits. 
+//Format: 8 rearranged integers (ranging from 1-10), with 1 spacing between each
+6 3 7 4 8 5 10 9

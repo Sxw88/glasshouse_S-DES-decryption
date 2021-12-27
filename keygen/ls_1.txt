@@ -1,0 +1,4 @@
+//first 3 lines are reserved for comments:
+//in this file is the permutation array for Left Shift 1 (LS1). The key is used to rearrange the 10-bit key by shifting them 1-bit to the left for each halve of the key. 
+//Format: 10 consecutive rearranged integers, with 1 spacing between each
+2 3 4 5 1 7 8 9 10 6

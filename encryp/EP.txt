@@ -1,0 +1,4 @@
+//first 3 lines are reserved for comments
+//this file contains permutation array for Expand and Permutate (E/P)
+//format: 8 consecutive rearranged integers, each separated by one space
+4 1 2 3 2 3 4 1

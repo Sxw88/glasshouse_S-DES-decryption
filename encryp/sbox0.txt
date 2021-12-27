@@ -1,0 +1,7 @@
+//the first 3 lines are reserved for comments
+//this file contains s-box matrix
+//format: 4x4 matrix separated by a space between 2-digit binary numbers, limit is not hardcoded but might need reviewing the source code
+01 00 11 10
+11 10 01 00
+00 10 01 11
+11 01 11 10

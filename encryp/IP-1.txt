@@ -1,0 +1,4 @@
+//first 3 lines are reserved for comments
+//this file contains permutation array for Inverse Initial Permutation (IP-1)
+//format: 8 consecutive rearranged integers, each separated by one space
+4 1 3 5 7 2 8 6

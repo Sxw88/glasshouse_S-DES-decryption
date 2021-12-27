@@ -1,0 +1,4 @@
+//first 3 lines are reserved for comments
+//this file contains permutation array for P4 operation
+//format: 4 consecutive rearranged integers, each separated by one space
+2 4 3 1
